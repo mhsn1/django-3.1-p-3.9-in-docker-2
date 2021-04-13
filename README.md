@@ -1,5 +1,5 @@
 # cj-app
-Django 2.1 - Python 3.6
+Django 3.1.6 - Python 3.9
 
 IMPORTANT NOTES:
 
