@@ -33,3 +33,4 @@ Django 3.1.6 - Python 3.9
 			- username: root
 			- password: admin
 			- database: db
+# verify
